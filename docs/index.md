@@ -3,7 +3,7 @@
 
 Well I got hacked big time so I am turning my server down for a while.
 
-### I am presently working in developping my style using AI.
+### I am presently working in developping my style using various AI I trained.
 
 #### here is one of my creation made from a Dali's inspiration : 
 
