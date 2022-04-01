@@ -11,6 +11,8 @@ price/sale_price: 9.99 USD, 7.99 CAD
 
 image_link: 500x500px
 
+brand :  unique manufacturer part number
+
 # Additional 
 
 sale_price,
