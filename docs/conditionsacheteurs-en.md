@@ -1,3 +1,4 @@
+## ([Version Française](conditionsacheteurs.md))
 # Buyer Terms of Service
 ## AGREEMENT FOR THE SALE OF AN ARTISTIC WORK
 
