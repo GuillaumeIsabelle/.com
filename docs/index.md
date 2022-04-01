@@ -12,6 +12,7 @@
 |    **[Achat Oeuvre d'origine <br>(ou reproduite)](https://www.artpal.com/jgisabelleart)**|  [![](./img/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |   **[Buy Original Painting <br>(or a reproduction)](https://www.artpal.com/jgisabelleart)**     |
 |    [Communauté de <br>Parrainage Artistique](https://www.patreon.com/jgisabelleart)    |  ![](http://img.jgwill.com/ico/dotted-map-blue.png)     |    [Artistic <br>Spoonsorship Community](https://www.patreon.com/jgisabelleart)    |
 |Info sur le financement d'achat <br>d'une oeuvre originale |   [![](./ico/icons8-money-box-52.png)Financement](financement.md)     | Info on financing acquisition of original artwork      |
+|  [Conditions de vente](conditionsacheteurs)     |       | [Buyer Terms of agreement](conditionsacheteurs-en)       |
 |       |       |       |
 
 
