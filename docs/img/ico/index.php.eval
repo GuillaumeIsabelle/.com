@@ -1,0 +1,16 @@
+<?php
+
+//require_once( ABSPATH . '/../index.php' );
+
+
+
+require_once( dirname( __FILE__ ) . '/../../afi-imghelp.php' );
+
+
+$path = dirname( __FILE__ ) ;
+
+echo $path;
+
+afu__icon_index__190107($path);
+
+?>

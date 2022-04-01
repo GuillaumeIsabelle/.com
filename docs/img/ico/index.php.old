@@ -1,0 +1,38 @@
+<?php
+
+if ($handle = opendir('.')) {
+
+$count = 0;
+$maxcolumn = 5;
+$out = "<html><head><title>Afelia.img.ico</title>\n"
+."<style>.imgs {max-width:50px;}</style>"
+."</head><body>";
+
+$out .= "<table><tr><td>";
+    while (false !== ($entry = readdir($handle))) {
+
+		//for ($x = 0; $x <= 10; $x++) {
+			
+			if ($entry != "." && $entry != "..") {
+
+			$out.= "<td><div><img src=\"$entry\" class=imgs><br>$entry</div></td>\n";
+			}
+			$count++;
+			if ($count == $maxcolumn)
+			{
+				//next row
+				$out .= "</tr><tr>\n";
+				$count = 0;
+			}
+	//	}
+	
+    }
+
+    closedir($handle);
+	$out.="</tr></table>"
+	."</body></html>";
+	
+	echo $out;
+}
+
+?>
