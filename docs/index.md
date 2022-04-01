@@ -15,8 +15,8 @@
 |       |       |       |
 
 
-
-## /
+  
+  
 
 <!-- ### I am presently working in developping my style using various AI I trained.
 
