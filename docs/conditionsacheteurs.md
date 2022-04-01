@@ -1,4 +1,4 @@
-# Conditions d'utilisation de l'acheteur  [ENGLISH VERSION](https://guillaumeisabelle-com.translate.goog/conditionsacheteurs?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+# Conditions d'utilisation de l'acheteur  [ENGLISH VERSION](conditionsacheteurs-en.md)
 
 
 
