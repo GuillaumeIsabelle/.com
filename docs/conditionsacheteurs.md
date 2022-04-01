@@ -1,4 +1,5 @@
-# Conditions d'utilisation de l'acheteur  [ENGLISH VERSION](conditionsacheteurs-en.md)
+## ([ENGLISH VERSION](conditionsacheteurs-en.md))
+# Conditions d'utilisation de l'acheteur  
 
 
 
