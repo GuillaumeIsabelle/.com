@@ -22,3 +22,6 @@ sale_price_effective_date : YYYY-MM-DDT23:59+00:00/YYYY-MM-DDT23:59+00:00
 status: active, archived.  Controls whether the item is active or archived in your catalog
 
 additional_image_link  : coma separated multiple img
+
+# required too
+google_product_category  : [google-category](google-category.txt)
