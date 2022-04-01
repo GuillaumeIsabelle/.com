@@ -16,8 +16,8 @@
 
 
 ----
-
-  ![](./img/ico/dotted-map-blue.png)
+<!-- 
+  ![](./img/ico/dotted-map-blue.png) -->
   
 
 <!-- ### I am presently working in developping my style using various AI I trained.
