@@ -5,13 +5,22 @@ J'ai été hacké il y a quelque temps... Pendant que je reconstruis différemme
 Well I got hacked big time so I am turning my server down for a while.
 
 
-[Communauté de Parrainage Artistique](https://www.patreon.com/jgisabelleart) / [Artistic Spoonsorship Community](https://www.patreon.com/jgisabelleart)
+|       |       |
+|  ---  |  ---  |
+|  [![](./img/acrylics-painting/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |  **[Achat Oeuvre d'origine ou reproduite](https://www.artpal.com/jgisabelleart) / [Buy Original Painting or reproduction](https://www.artpal.com/jgisabelleart)**     |
+|       |       |
 
-### I am presently working in developping my style using various AI I trained.
+
+
+
+
+## [Communauté de Parrainage Artistique](https://www.patreon.com/jgisabelleart) / [Artistic Spoonsorship Community](https://www.patreon.com/jgisabelleart)
+
+<!-- ### I am presently working in developping my style using various AI I trained.
 
 #### here is one of my creation made from a Dali's inspiration : 
 
-[![](0050_untitled_1937__us33_sdw_v02_1111x___150k_sdw_v02_2100x___135k__mtn.jpg)](0050_untitled_1937__us33_sdw_v02_1111x___150k_sdw_v02_2100x___135k.jpg)
+[![](0050_untitled_1937__us33_sdw_v02_1111x___150k_sdw_v02_2100x___135k__mtn.jpg)](0050_untitled_1937__us33_sdw_v02_1111x___150k_sdw_v02_2100x___135k.jpg) -->
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
