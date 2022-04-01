@@ -7,12 +7,12 @@
 
 |       |       |       |
 |  ---  |  ---  |  ---  |
-|  J'ai été hacké il y a quelque temps... <br>Pendant que je reconstruis différemment,<br> vous trouverez ci-bas des liens.     |   ![](./ico/fountain-pen-close-up-64px.png)    |    Well I got hacked big time<br> so I am turning my web<br> down for a while.   |
+|  J'ai été hacké il y a quelque temps... <br>Pendant que je reconstruis différemment,<br> vous trouverez ci-bas des liens.     |   ![](./img/ico/fountain-pen-close-up-64px.png)    |    Well I got hacked big time<br> so I am turning my web<br> down for a while.   |
 |       |       |       |
 |    **[Achat Oeuvre d'origine <br>(ou reproduite)](https://www.artpal.com/jgisabelleart)**|  [![](./img/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |   **[Buy Original Painting <br>(or a reproduction)](https://www.artpal.com/jgisabelleart)**     |
-|    [![](./ico/connected-52.png)Communauté de <br>Parrainage Artistique](https://www.patreon.com/jgisabelleart)    |  ![](./ico/dotted-map-blue.png)     |    [![](./ico/connected-52.png)Artistic <br>Spoonsorship Community](https://www.patreon.com/jgisabelleart)    |
+|    [![](./img/ico/connected-52.png)Communauté de <br>Parrainage Artistique](https://www.patreon.com/jgisabelleart)    |  ![](./img/ico/dotted-map-blue.png)     |    [![](./img/ico/connected-52.png)Artistic <br>Spoonsorship Community](https://www.patreon.com/jgisabelleart)    |
 |Info sur le financement d'achat <br>d'une oeuvre originale |   [![](./ico/icons8-money-box-52.png)Financement](financement.md)     | Info on financing acquisition of original artwork      |
-|  [Conditions de vente](conditionsacheteurs)     |  ![](./ico/currency-exchange-128.png)     | [Buyer Terms of agreement](conditionsacheteurs-en)       |
+|  [Conditions de vente](conditionsacheteurs)     |  ![](./img/ico/currency-exchange-128.png)     | [Buyer Terms of agreement](conditionsacheteurs-en)       |
 |       |       |       |
 
 
