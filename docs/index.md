@@ -1,14 +1,16 @@
 # Hello :)
 
 
-J'ai été hacké il y a quelque temps... Pendant que je reconstruis différemment, vous trouverez ci-bas des liens.
-Well I got hacked big time so I am turning my server down for a while.
 
 
-|       |       |
-|  ---  |  ---  |
-|  [![](./img/acrylics-painting/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |  **[Achat Oeuvre d'origine ou reproduite](https://www.artpal.com/jgisabelleart) / [Buy Original Painting or reproduction](https://www.artpal.com/jgisabelleart)**     |
-|       |       |
+
+
+|       |       |       |
+|  ---  |  ---  |  ---  |
+|  J'ai été hacké il y a quelque temps... <br>Pendant que je reconstruis différemment,<br> vous trouverez ci-bas des liens.     |       |    Well I got hacked big time<br> so I am turning my web<br> down for a while.   |
+|       |       |       |
+|    **[Achat Oeuvre d'origine <br>(ou reproduite)](https://www.artpal.com/jgisabelleart)**|  [![](./img/acrylics-painting/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |   **[Buy Original Painting <br>(or a reproduction)](https://www.artpal.com/jgisabelleart)**     |
+|Info sur le financement d'achat <br>d'une oeuvre originale |  [Financement](financement.md)     | Info on financing acquisition of original artwork      |
 
 
 
