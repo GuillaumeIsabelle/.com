@@ -4,6 +4,7 @@
 J'ai été hacké il y a quelque temps... Pendant que je reconstruis différemment, vous trouverez ci-bas des liens.
 Well I got hacked big time so I am turning my server down for a while.
 
+
 [Communauté de Parrainage Artistique](https://www.patreon.com/jgisabelleart) / [Artistic Spoonsorship Community](https://www.patreon.com/jgisabelleart)
 
 ### I am presently working in developping my style using various AI I trained.
