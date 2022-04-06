@@ -7,6 +7,7 @@
 |       |       |       |
 |    [Communauté  <br>de <br>![](./img/ico/connected-52.png)Parrainage Artistique](https://www.patreon.com/jgisabelleart)    |       |    [Artistic <br>![](./img/ico/connected-52.png)Spoonsorship Community](https://www.patreon.com/jgisabelleart)    |
 |       |       |       |
+|  Encouragement recurrent-->     |    [5$/Mois :)](https://buy.stripe.com/3cs3fm5U925Zbm0fYY)   | Recurring Contribution       |
 |Info sur le financement d'achat <br>d'une oeuvre originale |   [![](./img/ico/icons8-money-box-52.png)Financement](financement)    | Info on financing acquisition of original artwork      |
 |  [Conditions de vente](conditionsacheteurs)     |  ![](./img/ico/currency-exchange-128.png)     | [Buyer Terms of agreement](conditionsacheteurs-en)       |
 |       |       |       |
