@@ -15,3 +15,20 @@
 | 36x60     | 2160 | 1080  | $90  | $45         | 24 | Mois |
 
 
+
+
+
+----
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KN1XRLTTQ0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KN1XRLTTQ0');
+</script>
