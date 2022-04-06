@@ -40,6 +40,8 @@
 ----
 
 
+<script src="https://app.enzuzo.com/apps/enzuzo/static/js/__enzuzo-cookiebar.js?uuid=83eade62-b589-11ec-a58f-3be5ea4fa33c"></script>
+
 
 ----
 
