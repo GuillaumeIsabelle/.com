@@ -1,0 +1,19 @@
+{
+  "name": "guillaumeisabelle-com",
+  "version": "0.0.5",
+  "description": "GuillaumeIsabelle.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "gixb https://guillaumeisabelle.com",
+    "build":"echo . build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuillaumeIsabelle/.com/edit/master/docs"
+  },
+  "keywords": [
+    "gi"
+  ],
+  "author": "Guillaume D. Isabelle",
+  "license": "ISC"
+}
