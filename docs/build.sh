@@ -4,6 +4,6 @@
 (wdir=img/acrylics-painting;cdir=$(pwd);cd $wdir && \
 	. _mn_resizer.sh && \
 	cd $cdir && \
-	. _as_generator.sh && echo "Rebuilted" && \
+	. _acrylics_generator.sh && echo "Rebuilted" && \
 	git add $wdir/mn/*jpg $wdir/mncc/*jpg $wdir/*jpg &> /dev/null ;git commit acrylics.md $wdir/mn/*jpg $wdir/mncc/*jpg $wdir/*jpg -m rebuilt ;git push)
 
