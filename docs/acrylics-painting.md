@@ -31,3 +31,11 @@
 |[parts/ap_articol_no_01__20x24__220320_blackframe](img/acrylics-painting/parts/ap_articol_no_01__20x24__220320_blackframe.jpg)|![parts/ap_articol_no_01__20x24__220320_blackframe](img/acrylics-painting/parts/ap_articol_no_01__20x24__220320_blackframe.jpg)|
 |[parts/ap_articol_no_01__20x24__220320__kickstarter](img/acrylics-painting/parts/ap_articol_no_01__20x24__220320__kickstarter.jpg)|![parts/ap_articol_no_01__20x24__220320__kickstarter](img/acrylics-painting/parts/ap_articol_no_01__20x24__220320__kickstarter.jpg)|
 |[parts/ap_articol_no_01__up__220408](img/acrylics-painting/parts/ap_articol_no_01__up__220408.jpg)|![parts/ap_articol_no_01__up__220408](img/acrylics-painting/parts/ap_articol_no_01__up__220408.jpg)|
+|[tn/ap_articol_no_01__20x24__220320](img/acrylics-painting/tn/ap_articol_no_01__20x24__220320.jpg)|![tn/ap_articol_no_01__20x24__220320](img/acrylics-painting/tn/ap_articol_no_01__20x24__220320.jpg)|
+|[tn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/tn/ap_laa_xno_2__24x36__191109.jpg)|![tn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/tn/ap_laa_xno_2__24x36__191109.jpg)|
+|[tn/ap__bluenlite__16x20__220408](img/acrylics-painting/tn/ap__bluenlite__16x20__220408.jpg)|![tn/ap__bluenlite__16x20__220408](img/acrylics-painting/tn/ap__bluenlite__16x20__220408.jpg)|
+|[tn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/tn/ap__russia__laa_no_3__16x20__191110.jpg)|![tn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/tn/ap__russia__laa_no_3__16x20__191110.jpg)|
+|[tn/ap__talking__16x20__191110](img/acrylics-painting/tn/ap__talking__16x20__191110.jpg)|![tn/ap__talking__16x20__191110](img/acrylics-painting/tn/ap__talking__16x20__191110.jpg)|
+|[tn/ap__unrooter_anger_no_2__24x36__191109_IMG_0028](img/acrylics-painting/tn/ap__unrooter_anger_no_2__24x36__191109_IMG_0028.jpg)|![tn/ap__unrooter_anger_no_2__24x36__191109_IMG_0028](img/acrylics-painting/tn/ap__unrooter_anger_no_2__24x36__191109_IMG_0028.jpg)|
+|[tn/ap__wirly__16x20__191110](img/acrylics-painting/tn/ap__wirly__16x20__191110.jpg)|![tn/ap__wirly__16x20__191110](img/acrylics-painting/tn/ap__wirly__16x20__191110.jpg)|
+|[tn/Articol_no1a__pencil_colored__220319](img/acrylics-painting/tn/Articol_no1a__pencil_colored__220319.jpg)|![tn/Articol_no1a__pencil_colored__220319](img/acrylics-painting/tn/Articol_no1a__pencil_colored__220319.jpg)|
