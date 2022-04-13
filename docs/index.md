@@ -4,7 +4,7 @@
 |  **Allo !** <br>Vous trouverez ci-bas des liens, servez vous, c'est gratuit ;)     |   ![](./img/ico/fountain-pen-close-up-64px.png)    |    **Hello** <br>Down bellow are some links, its free ;) to click   |
 |       |       |       |
 |    **[Achat Oeuvre d'origine <br>(ou reproduite)](https://www.artpal.com/jgisabelleart)**|  [![](./img/ap_articol_no_01__20x24__220320__tn.jpg)](https://www.artpal.com/jgisabelleart)     |   **[Buy Original Painting <br>(or a reproduction)](https://www.artpal.com/jgisabelleart)**     |
-|       |       |       |
+|       |  S U P P O R T     |       |
 |    [Communauté  <br>de <br>![](./img/ico/connected-52.png)Parrainage Artistique](https://www.patreon.com/jgisabelleart)    |       |    [Artistic <br>![](./img/ico/connected-52.png)Spoonsorship Community](https://www.patreon.com/jgisabelleart)    |
 |       |       |       |
 |  Encouragement recurrent-->     |    [CONTRIB](contrib)   | Recurring Contribution       |

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "gixb https://guillaumeisabelle.com",
-    "build":"echo . build"
+    "build":"echo . build.sh",
+    "etl":"echo run . etl.sh"
   },
   "repository": {
     "type": "git",
