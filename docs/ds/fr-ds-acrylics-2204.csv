@@ -1,11 +1,14 @@
-# Required | A unique content ID for the item. Use the item's SKU if you can. Each content ID must appear only once in your catalog. To run dynamic ads this ID must exactly match the content ID for the same item in your Meta Pixel code. Character limit: 100,# Required | Language code. Supported codes: https://www.facebook.com/business/help/2144286692311411,# Optional | A specific and relevant title for the item. See title specifications: https://www.facebook.com/business/help/2104231189874655 Character limit: 150,# Optional | A short and relevant description of the item. Include specific or unique product features like material or color. Use plain text and don't enter text in all capital letters. See description specifications: https://www.facebook.com/business/help/2302017289821154 Character limit: 5000,# Optional | The material the item is made from. For example: cotton; denim; leather. Character limit: 200.
 id,override,title,description,material
-9,fr_XX,,,
-8,fr_XX,,,
-3,fr_XX,,,
-7,fr_XX,,,
-4,fr_XX,,,
-5,fr_XX,,,
-2,fr_XX,,,
-1,fr_XX,,,
-6,fr_XX,,,
+9,fr_XX,Anger no 4 2009,Collection d'expérimentation no 4 sur la libération de la colère en mouvement.  Les émotions sont contenues dans un court délai pour bâtir une tension qui est libéré en mouvement très sec sur l'oeuvre.  La pratique du lâcher prise !!,"acrylique,canevas,digital print"
+3,fr_XX,Toujours Parler,Illustre la parole en mouvement abstrait.,"acrylique,canevas,digital print"
+8,fr_XX,Articol no 1 v2,"Seconde itération.  Peinture acrylique fabriqué avec un nouveau médium collaboratif qui se resource dans l'intelligence artificielle (IA). 
+Cet ajout à mon processus me permet d'explorer au préalable de l'acte de peindre, des lieux créatifs. 
+Ces derniers ne sont accessible que dans le nouveau paradigme de traitement de données avec l'IA.","acrylique,canevas,digital print"
+7,fr_XX,Bleue Lumière (Bluenlite),Peinture abstraite inspirée de la fleur,"acrylique,canevas,digital print"
+4,fr_XX,Liberté enragé no 2 2019,Oeuvre synthèse sur la colère et la liberté en mouvement.  (original vendu),"acrylique,canevas,digital print"
+5,fr_XX,Wirly 2019,Mouvement (original vendu),"acrylique,canevas,digital print"
+2,fr_XX,Laax no 2 / 2017,"Acrylic Painting produite pendant le cours ""Créer sa vie"". Exercise de créer en 30 minutes.","acrylique,canevas,digital print"
+6,fr_XX,Russ Art Life  no 3,"Petite oeuvre acrylique abstraite douce créé pendant un de mes cours . Exercise de créer en 5-15 minutes.  Sweet little peace of work made during one of my art course.  Exercise of creating in 5-15  minutes. ","acrylique,canevas"
+1,fr_XX,Articol no 1,"(Reproduction only/seulement) Peinture acrylique fabriqué avec un nouveau médium collaboratif qui se resource dans l'intelligence artificielle (IA). 
+Cet ajout à mon processus me permet d'explorer au préalable de l'acte de peindre, des lieux créatifs. 
+Ces derniers ne sont accessible que dans le nouveau paradigme de traitement de données avec l'IA.",digital print
