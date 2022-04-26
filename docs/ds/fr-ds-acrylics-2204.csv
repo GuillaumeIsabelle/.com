@@ -1,0 +1,11 @@
+# Required | A unique content ID for the item. Use the item's SKU if you can. Each content ID must appear only once in your catalog. To run dynamic ads this ID must exactly match the content ID for the same item in your Meta Pixel code. Character limit: 100,# Required | Language code. Supported codes: https://www.facebook.com/business/help/2144286692311411,# Optional | A specific and relevant title for the item. See title specifications: https://www.facebook.com/business/help/2104231189874655 Character limit: 150,# Optional | A short and relevant description of the item. Include specific or unique product features like material or color. Use plain text and don't enter text in all capital letters. See description specifications: https://www.facebook.com/business/help/2302017289821154 Character limit: 5000,# Optional | The material the item is made from. For example: cotton; denim; leather. Character limit: 200.
+id,override,title,description,material
+9,fr_XX,,,
+8,fr_XX,,,
+3,fr_XX,,,
+7,fr_XX,,,
+4,fr_XX,,,
+5,fr_XX,,,
+2,fr_XX,,,
+1,fr_XX,,,
+6,fr_XX,,,
