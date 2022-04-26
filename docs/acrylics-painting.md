@@ -3,6 +3,7 @@
 |[additional/ap_articol_no_01__20x24__220320__CHEVALET](img/acrylics-painting/additional/ap_articol_no_01__20x24__220320__CHEVALET.jpg)|![additional/ap_articol_no_01__20x24__220320__CHEVALET](img/acrylics-painting/additional/ap_articol_no_01__20x24__220320__CHEVALET.jpg)|
 |[ap_articol_no_01__20x24__220320](img/acrylics-painting/ap_articol_no_01__20x24__220320.jpg)|![ap_articol_no_01__20x24__220320](img/acrylics-painting/ap_articol_no_01__20x24__220320.jpg)|
 |[ap_laa_xno_2__24x36__191109](img/acrylics-painting/ap_laa_xno_2__24x36__191109.jpg)|![ap_laa_xno_2__24x36__191109](img/acrylics-painting/ap_laa_xno_2__24x36__191109.jpg)|
+|[ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|![ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|
 |[ap__bluenlite__16x20__220408](img/acrylics-painting/ap__bluenlite__16x20__220408.jpg)|![ap__bluenlite__16x20__220408](img/acrylics-painting/ap__bluenlite__16x20__220408.jpg)|
 |[ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/ap__russia__laa_no_3__16x20__191110.jpg)|![ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/ap__russia__laa_no_3__16x20__191110.jpg)|
 |[ap__talking__16x20__191110](img/acrylics-painting/ap__talking__16x20__191110.jpg)|![ap__talking__16x20__191110](img/acrylics-painting/ap__talking__16x20__191110.jpg)|
@@ -11,6 +12,7 @@
 |[Articol_no1a__pencil_colored__220319](img/acrylics-painting/Articol_no1a__pencil_colored__220319.jpg)|![Articol_no1a__pencil_colored__220319](img/acrylics-painting/Articol_no1a__pencil_colored__220319.jpg)|
 |[mn/ap_articol_no_01__20x24__220320](img/acrylics-painting/mn/ap_articol_no_01__20x24__220320.jpg)|![mn/ap_articol_no_01__20x24__220320](img/acrylics-painting/mn/ap_articol_no_01__20x24__220320.jpg)|
 |[mn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/mn/ap_laa_xno_2__24x36__191109.jpg)|![mn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/mn/ap_laa_xno_2__24x36__191109.jpg)|
+|[mn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/mn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|![mn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/mn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|
 |[mn/ap__bluenlite__16x20__220408](img/acrylics-painting/mn/ap__bluenlite__16x20__220408.jpg)|![mn/ap__bluenlite__16x20__220408](img/acrylics-painting/mn/ap__bluenlite__16x20__220408.jpg)|
 |[mn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/mn/ap__russia__laa_no_3__16x20__191110.jpg)|![mn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/mn/ap__russia__laa_no_3__16x20__191110.jpg)|
 |[mn/ap__talking__16x20__191110](img/acrylics-painting/mn/ap__talking__16x20__191110.jpg)|![mn/ap__talking__16x20__191110](img/acrylics-painting/mn/ap__talking__16x20__191110.jpg)|
@@ -19,6 +21,7 @@
 |[mn/Articol_no1a__pencil_colored__220319](img/acrylics-painting/mn/Articol_no1a__pencil_colored__220319.jpg)|![mn/Articol_no1a__pencil_colored__220319](img/acrylics-painting/mn/Articol_no1a__pencil_colored__220319.jpg)|
 |[mncc/ap_articol_no_01__20x24__220320](img/acrylics-painting/mncc/ap_articol_no_01__20x24__220320.jpg)|![mncc/ap_articol_no_01__20x24__220320](img/acrylics-painting/mncc/ap_articol_no_01__20x24__220320.jpg)|
 |[mncc/ap_laa_xno_2__24x36__191109](img/acrylics-painting/mncc/ap_laa_xno_2__24x36__191109.jpg)|![mncc/ap_laa_xno_2__24x36__191109](img/acrylics-painting/mncc/ap_laa_xno_2__24x36__191109.jpg)|
+|[mncc/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/mncc/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|![mncc/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/mncc/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|
 |[mncc/ap__bluenlite__16x20__220408](img/acrylics-painting/mncc/ap__bluenlite__16x20__220408.jpg)|![mncc/ap__bluenlite__16x20__220408](img/acrylics-painting/mncc/ap__bluenlite__16x20__220408.jpg)|
 |[mncc/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/mncc/ap__russia__laa_no_3__16x20__191110.jpg)|![mncc/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/mncc/ap__russia__laa_no_3__16x20__191110.jpg)|
 |[mncc/ap__talking__16x20__191110](img/acrylics-painting/mncc/ap__talking__16x20__191110.jpg)|![mncc/ap__talking__16x20__191110](img/acrylics-painting/mncc/ap__talking__16x20__191110.jpg)|
@@ -33,6 +36,7 @@
 |[parts/ap_articol_no_01__up__220408](img/acrylics-painting/parts/ap_articol_no_01__up__220408.jpg)|![parts/ap_articol_no_01__up__220408](img/acrylics-painting/parts/ap_articol_no_01__up__220408.jpg)|
 |[tn/ap_articol_no_01__20x24__220320](img/acrylics-painting/tn/ap_articol_no_01__20x24__220320.jpg)|![tn/ap_articol_no_01__20x24__220320](img/acrylics-painting/tn/ap_articol_no_01__20x24__220320.jpg)|
 |[tn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/tn/ap_laa_xno_2__24x36__191109.jpg)|![tn/ap_laa_xno_2__24x36__191109](img/acrylics-painting/tn/ap_laa_xno_2__24x36__191109.jpg)|
+|[tn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/tn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|![tn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02](img/acrylics-painting/tn/ap__anger_no_4__36x60__2009__DSC_1465-1468HDR2Jpeg02.jpg)|
 |[tn/ap__bluenlite__16x20__220408](img/acrylics-painting/tn/ap__bluenlite__16x20__220408.jpg)|![tn/ap__bluenlite__16x20__220408](img/acrylics-painting/tn/ap__bluenlite__16x20__220408.jpg)|
 |[tn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/tn/ap__russia__laa_no_3__16x20__191110.jpg)|![tn/ap__russia__laa_no_3__16x20__191110](img/acrylics-painting/tn/ap__russia__laa_no_3__16x20__191110.jpg)|
 |[tn/ap__talking__16x20__191110](img/acrylics-painting/tn/ap__talking__16x20__191110.jpg)|![tn/ap__talking__16x20__191110](img/acrylics-painting/tn/ap__talking__16x20__191110.jpg)|
